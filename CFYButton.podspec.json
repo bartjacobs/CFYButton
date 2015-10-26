@@ -1,0 +1,24 @@
+{
+  "name": "CFYButton",
+  "version": "0.0.2",
+  "summary": "CFYButton",
+  "description": "CFYButton is a replacement for UIButton.",
+  "homepage": "http://codefoundry.be",
+  "license": "MIT",
+  "authors": {
+    "Bart Jacobs": "developer@bartjacobs.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "tag": "0.0.2",
+    "git": "https://github.com/bartjacobs/CFYButton.git"
+  },
+  "source_files": [
+    "Classes/{CFY}*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit"
+  ]
+}
